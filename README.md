@@ -1,0 +1,1 @@
+npm install -D sass --> para utilizar SAS(.SCSS)
